@@ -1,4 +1,4 @@
-📊 COVID-19 Global Dashboard: Deaths and Vaccinations (2020–2024)
+📊 COVID-19 Global Dashboard: Deaths and Vaccinations (2020–2023)
 ---
 📝 Project Overview
 ---
