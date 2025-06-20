@@ -10,7 +10,7 @@ Vaccination uptake over time
 
 Comparative insights between public health outcomes and vaccine rollout
 
-The goal is to enable data-driven exploration of the pandemic's trajectory across regions with varied healthcare infrastructures, policy responses, and vaccine accessibility.
+The goal is to see the increase and decrease across regions depending on their infrastructures, policies, vaccine acceptance and vaccine accessibility.
 ----
 🌍 Countries Included
 ---
@@ -56,7 +56,7 @@ This contrast allows users to explore how policy timing, vaccine accessibility, 
 
 WHO COVID-19 Global Data
 
-Used for: New and cumulative COVID-19 deaths and cases
+Used for: Cumulative COVID-19 deaths and cases
 
 🔵 Our World in Data (OWID)
 
@@ -74,9 +74,8 @@ Manual filtering and country selection for tailored comparison
 --
 Data visualized from January 2020 to June 2023
 
-Most recent available records were used for totals and trends
-
 👤 Author
+--
 Suyash Pandit
 Created as part of a data analytics bootcamp assignment portfolio and no copyright infringment intended
 For inquiries: suyashpandit@gmail.com
